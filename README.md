@@ -12,7 +12,16 @@ CustomTextField <br/>
 CustomButton <br/>
 
 
+Write Program -Studied
+
+ObjC -Arrays <br />
+Inheritance - Trainee/Employee
 
 
+Find Out about
+
+NSDictionary
+
+Cool :D
 
 
