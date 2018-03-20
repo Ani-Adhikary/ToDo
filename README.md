@@ -1,6 +1,6 @@
 # ToDo
 
-Add
+<b>Add</b>
 
 ElementTableViewObjC -Simple <br/>
 WorldCitiesDetailViewObjC <br/>
@@ -12,7 +12,7 @@ CustomTextField <br/>
 CustomButton <br/>
 
 
-Write Program -Studied
+<b>Write Program -Studied</b>
 
 ObjC -Arrays <br />
 Inheritance - Trainee/Employee
@@ -25,3 +25,8 @@ NSDictionary
 Cool :D
 
 
+<b>TO DO</b>
+
+T Money<br />
+Bike Servicing<br />
+Take Money<br/>
