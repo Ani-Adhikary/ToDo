@@ -1,5 +1,11 @@
 # ToDo
 
+<b>AL Series Added</b>
+
+StackView1 project <br />
+Button AL Ray Wen <br />
+Masonry started -Yellow View code <br />
+
 <b>Add</b>
 
 ElementTableViewObjC -Simple <br/>
@@ -27,6 +33,6 @@ Cool :D
 
 <b>TO DO</b>
 
-T Money<br />
 Bike Servicing<br />
-Take Money<br/>
+
+
