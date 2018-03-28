@@ -1,6 +1,17 @@
 # ToDo
 ElementTblViewFindingEndScrollView
 
+<b> Lets build the app</b>
+
+First episode started< br/>
+https://www.youtube.com/watch?v=2fcf9yFe944
+
+<b>GCD started too</b>
+
+https://www.youtube.com/watch?v=Qg2MeEKzVB4 <br />
+https://www.youtube.com/watch?v=rudFV6hW1r4 <br />
+https://www.youtube.com/watch?v=rudFV6hW1r4<br />
+
 
 <b>AL Series Added</b>
 
