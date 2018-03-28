@@ -1,10 +1,13 @@
 # ToDo
 ElementTblViewFindingEndScrollView
+ElementTableHideNavAndTabBar
 
 <b> Lets build the app</b>
 
 First episode started <br/>
 https://www.youtube.com/watch?v=2fcf9yFe944
+Login Screen using code <br />
+https://www.youtube.com/watch?v=fuSjQ4s50jg
 
 <b>GCD started too</b>
 
