@@ -5,10 +5,10 @@ Geometry Fighter <br />
 
 <b> Lets build the app</b>
 
-First episode started <br/>
-https://www.youtube.com/watch?v=2fcf9yFe944
+First episode started <br />
+https://www.youtube.com/watch?v=2fcf9yFe944 <br />
 Login Screen using code <br />
-https://www.youtube.com/watch?v=fuSjQ4s50jg
+https://www.youtube.com/watch?v=fuSjQ4s50jg <br/>
 
 <b>GCD started too</b>
 
