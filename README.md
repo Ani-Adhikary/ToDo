@@ -3,7 +3,7 @@ ElementTblViewFindingEndScrollView
 
 <b> Lets build the app</b>
 
-First episode started< br/>
+First episode started <br/>
 https://www.youtube.com/watch?v=2fcf9yFe944
 
 <b>GCD started too</b>
