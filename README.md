@@ -1,6 +1,7 @@
 # ToDo
-ElementTblViewFindingEndScrollView
-ElementTableHideNavAndTabBar
+ElementTblViewFindingEndScrollView <br />
+ElementTableHideNavAndTabBar <br />
+Geometry Fighter <br />
 
 <b> Lets build the app</b>
 
