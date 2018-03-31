@@ -22,6 +22,8 @@ https://www.youtube.com/watch?v=rudFV6hW1r4<br />
 StackView1 project <br />
 Button AL Ray Wen <br />
 Masonry started -Yellow View code <br />
+https://useyourloaf.com/blog/safe-area-layout-guide/ <br />
+https://www.youtube.com/watch?v=FXDEaL3mcCo <br />
 
 <b>Add</b>
 
