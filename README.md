@@ -1,5 +1,9 @@
 # ToDo
 
+Supporting Dynamic Type w/ Custom fonts.<br />
+https://medium.com/if-let-swift-programming/supporting-dynamic-type-w-custom-fonts-a69e5adf20ea <br />
+
+
 Nested Table Views <br />
 Table View with height constraint animation <br />
 Labels Constraint animation <br />
